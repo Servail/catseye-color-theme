@@ -3,7 +3,8 @@
     "displayName": "Catseye color theme",
 	"publisher":"Servail",
     "description": "Black minimalistic theme with simple colors",
-    "version": "0.0.1",
+    "version": "0.0.2",
+	"repository": "https://github.com/Servail/catseye-color-theme",
     "engines": {
         "vscode": "^1.44.0"
     },
